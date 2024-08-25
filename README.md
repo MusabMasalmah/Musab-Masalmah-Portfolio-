@@ -18,8 +18,6 @@ Technology Stack
 ----------------
 
 *   **Frontend:** HTML, CSS, JavaScript
-*   **Backend:** Spring Boot (for project APIs)
-*   **Database:** PostgreSQL (for backend projects)
 *   **Version Control:** Git
 
 Getting Started
@@ -28,7 +26,6 @@ Getting Started
 ### Prerequisites
 
 *   A modern web browser (e.g., Chrome, Firefox)
-*   Internet connection to access external resources
 
 ### How to View the Portfolio
 
@@ -38,7 +35,7 @@ Getting Started
     
     Copy code
     
-    `git clone https://github.com/MusabMasalmah/portfolio.git` 
+    `git clone [https://github.com/MusabMasalmah/portfolio.git](https://github.com/MusabMasalmah/Musab-Masalmah-Portfolio-.git)` 
     
 2.  Navigate to the project directory and open `index.html` in your web browser.
 
