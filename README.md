@@ -42,18 +42,7 @@ Getting Started
     
 2.  Navigate to the project directory and open `index.html` in your web browser.
 
-Projects
---------
 
-### Hospital Management System
-
-*   **Description:** A management system for a small hospital using Java Spring Boot and PostgreSQL. It manages patient records, appointments, and staff schedules, ensuring seamless hospital operations.
-*   **Technology:** Spring Boot, PostgreSQL
-
-### Pizza Restaurant App
-
-*   **Description:** An Android app that allows customers to customize their orders, track deliveries in real-time, and access exclusive deals.
-*   **Technology:** Android Studio, Java
 
 License
 -------
